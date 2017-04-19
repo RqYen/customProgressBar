@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JiKeProgressBar">
+        <!--进度条到达的颜色-->
+        <attr name="jikeprogressbar_reached_area" format="color|reference"/>
+        <!--进度条未到达的颜色-->
+        <attr name="jikeprogressbar_unreached_area" format="color|reference"/>
+        <!--进度条的进度比-->
+        <attr name="jikeprogressbar_ratio" format="float|reference"/>
+    </declare-styleable>
+</resources>
